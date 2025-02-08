@@ -3,13 +3,11 @@
 <img width="1514" alt="Capture d’écran 2025-02-08 à 00 25 19" src="https://github.com/user-attachments/assets/ed705810-27b9-47fa-8a84-bea1d4e3aa36" />
 
 
-<img width="251" alt="Capture d’écran 2025-02-08 à 02 15 12" src="https://github.com/user-attachments/assets/5562e890-2f86-41ea-b824-ebd22d708c19" />
-
-
-
 
 <img width="1514" alt="Capture d’écran 2025-02-08 à 00 26 10" src="https://github.com/user-attachments/assets/a20796e1-91e0-4fd6-b202-df9c983a6473" />
 
+
+<img width="722" alt="Capture d’écran 2025-02-08 à 02 31 08" src="https://github.com/user-attachments/assets/9611078e-7928-47da-9e4b-13c994236b43" />
 
 
 
