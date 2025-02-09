@@ -7,7 +7,7 @@
 <img width="1514" alt="Capture d’écran 2025-02-08 à 00 26 10" src="https://github.com/user-attachments/assets/a20796e1-91e0-4fd6-b202-df9c983a6473" />
 
 
-<img width="722" alt="Capture d’écran 2025-02-08 à 02 31 08" src="https://github.com/user-attachments/assets/9611078e-7928-47da-9e4b-13c994236b43" />
+
 
 
 
