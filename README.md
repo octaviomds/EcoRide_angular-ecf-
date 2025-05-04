@@ -2,7 +2,7 @@
 
 ![Image 12-04-2025 à 23 39](https://github.com/user-attachments/assets/60ba5f33-82ad-4d73-851d-989f4d2241a9)
 
-![IMG_3156](https://github.com/user-attachments/assets/980174ab-ec6f-40d2-af6c-7cd610aad4b2)
+
 
 
 
