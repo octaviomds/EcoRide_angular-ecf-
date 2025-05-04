@@ -17,7 +17,7 @@
 
 
 
-![Image 22-01-2025 à 00 29](https://github.com/user-attachments/assets/0dded321-7410-47d3-99fa-4376ad2fb77c)
+
 
 
 ![Image 20-01-2025 à 04 08](https://github.com/user-attachments/assets/20cdcb0d-a761-46f4-ba70-f7daa350044f)
