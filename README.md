@@ -1,5 +1,8 @@
 # EcoRide
 
+la commande du projet:
+npm create vite@latest
+
 
 Exécutez  npm start pour créer l'application, démarrez un serveur Web pour ouvrir l'application dans le navigateur.
 
